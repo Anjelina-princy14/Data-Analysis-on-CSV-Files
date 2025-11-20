@@ -14,11 +14,13 @@ It reads a CSV file, calculates total revenue, analyzes category-wise and produc
 ---
 
 📁 Files Included
-
+```
 data_analysis.py – Main Python script
-sales.csv – Dataset used for analysis
-README.md– Project documentation
 
+sales.csv – Dataset used for analysis
+
+README.md– Project documentation
+```
 ---
 
 ## ▶️ **How to Run**
