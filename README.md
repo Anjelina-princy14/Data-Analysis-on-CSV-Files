@@ -1,12 +1,4 @@
-Perfect! I’ll upgrade your README with:
 
-✨ **Badges**
-✨ **Improved formatting**
-✨ **A clean Conclusion section**
-
-Here is your **enhanced README** — copy/paste this into your GitHub README.md:
-
----
 
 # 📊 **Sales Data Analysis (Task 5)**
 
