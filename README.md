@@ -39,9 +39,9 @@ python data_analysis.py
 
 ---
 
-## 📈 **Output Overview**
+📈 **Output Overview**
 
-### ✔️ Total Sales Calculation
+✔️ Total Sales Calculation
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9d8da6cd-0f7c-4012-a2bc-01c68b4e62c4" />
 
