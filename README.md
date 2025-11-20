@@ -23,15 +23,15 @@ README.md– Project documentation
 ```
 ---
 
-## ▶️ **How to Run**
+▶️ **How to Run**
 
-### 1️⃣ Install required libraries
+1️⃣ Install required libraries
 
 ```bash
 pip install pandas matplotlib
 ```
 
-### 2️⃣ Run the script
+2️⃣ Run the script
 
 ```bash
 python data_analysis.py
